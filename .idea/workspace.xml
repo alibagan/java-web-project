@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a92a527a-7380-44ef-8122-1a7bb23c3bd5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="a92a527a-7380-44ef-8122-1a7bb23c3bd5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600166934879</updated>
       <workItem from="1600166938500" duration="1097000" />
-      <workItem from="1600176903199" duration="277000" />
+      <workItem from="1600176903199" duration="1007000" />
     </task>
     <task id="LOCAL-00001" summary="hello jenkins">
       <created>1600167383383</created>
@@ -72,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600177085847</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="bootstrap integration 2">
+      <created>1600177307128</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600177307128</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,9 +95,13 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="hello jenkins" />
     <MESSAGE value="bootstrap integration" />
-    <option name="LAST_COMMIT_MESSAGE" value="bootstrap integration" />
+    <MESSAGE value="bootstrap integration 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="bootstrap integration 2" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="362" y="76" key="CommitChangelistDialog2" timestamp="1600167382462">
