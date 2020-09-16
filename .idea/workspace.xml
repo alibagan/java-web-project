@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a92a527a-7380-44ef-8122-1a7bb23c3bd5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +58,7 @@
       <updated>1600166934879</updated>
       <workItem from="1600166938500" duration="1097000" />
       <workItem from="1600176903199" duration="1007000" />
-      <workItem from="1600244981572" duration="4711000" />
+      <workItem from="1600244981572" duration="6097000" />
     </task>
     <task id="LOCAL-00001" summary="hello jenkins">
       <created>1600167383383</created>
@@ -101,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600251664644</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="modification of jenkins">
+      <created>1600262413258</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1600262413258</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
